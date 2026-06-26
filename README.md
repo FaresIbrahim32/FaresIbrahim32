@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:2563eb,100:14b8a6&text=Fares%20Ibrahim&fontAlign=50&fontAlignY=37&fontColor=ffffff&fontSize=56&desc=AI%2FML%20Engineer%20%7C%20MSCS%20%40%20University%20of%20South%20Florida&descAlign=50&descAlignY=58" alt="Fares Ibrahim profile header" />
 </p>
 
+<!-- Profile README refreshed on 2026-06-26. -->
+
 <p align="center">
   <a href="https://www.faresibrahim.me"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/fares-ibrahim-6753471b9/"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
