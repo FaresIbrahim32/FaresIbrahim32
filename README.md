@@ -85,7 +85,7 @@ Reproduced and extended fair streaming algorithms, validating fairness-utility t
 ## Resume
 
 <p align="center">
-  <a href="./assets/FaresIbrahim-dev.pdf">
+  <a href="./assets/FaresIbrahim_2027.pdf">
     <img src="./assets/resume-preview.png" width="640" alt="Preview of Fares Ibrahim resume" />
   </a>
 </p>
