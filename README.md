@@ -91,7 +91,7 @@ Reproduced and extended fair streaming algorithms, validating fairness-utility t
 </p>
 
 <p align="center">
-  <a href="./assets/FaresIbrahim-dev.pdf"><strong>Download the PDF resume</strong></a>
+  <a href="./assets/FaresIbrahim_2027.pdf"><strong>Download the PDF resume</strong></a>
 </p>
 
 ## GitHub Snapshot
