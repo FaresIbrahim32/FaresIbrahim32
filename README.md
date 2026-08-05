@@ -8,7 +8,7 @@
   <a href="https://www.faresibrahim.me"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/fares-ibrahim-6753471b9/"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:faresibrahim@usf.edu"><img src="https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="./assets/FaresIbrahim-dev.pdf"><img src="https://img.shields.io/badge/Resume-PDF-f43f5e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
+  <a href="./assets/FaresIbrahim_2027.pdf"><img src="https://img.shields.io/badge/Resume-PDF-f43f5e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
 </p>
 
 <p align="center">
